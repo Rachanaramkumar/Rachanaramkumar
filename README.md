@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on AI/ML, Deep Learning and Full-Stack Development projects.<br><br>I’m looking to collaborate on Open-Source Projects, AI-powered Applications and Research-based Projects.<br><br>I’m looking for help with Advanced Machine Learning, Graph Neural Networks and Research Publications.<br><br>I’m currently learning Generative AI, LLMs, Computer Vision and Knowledge Graphs.<br><br>Ask me about Python, Java, AI/ML, Web Development and Database Management.<br><br>Fun fact: Powered by curiosity, creativity and a little bit of caffeine!
+I’m currently working on AI/ML, Deep Learning and Full-Stack Development projects.<br>I’m looking to collaborate on Open-Source Projects, AI-powered Applications and Research-based Projects.<br>I’m looking for help with Advanced Machine Learning, Graph Neural Networks and Research Publications.<br>I’m currently learning Generative AI, LLMs, Computer Vision and Knowledge Graphs.<br>Ask me about Python, Java, AI/ML, Web Development and Database Management.<br>Fun fact: Powered by curiosity, creativity and a little bit of caffeine!
 
 
 ## 🌐 Socials:
